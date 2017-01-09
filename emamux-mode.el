@@ -1,7 +1,15 @@
-;; a minor mode for interacting with termux, via emamux
+;; emamux-mode.el a minor mode for interacting with termux, via emamux
 
-;; keybindings
+;;; Version: 0.0.0
+;;; Author: NGK Sternhagen <sternhagen@protonmail.ch>
+;;; Url: https://github.com/ottbot/vagrant.el
+;;; Keywords: tmux emamux
+;;; Created: 09 January 2016
 
+;;; Commentary:
+;;; TODO
+
+;;; Code:
 (define-minor-mode emamux-mode
   "interact with tmux via emamux"
   (require 'emacs-emamux)
@@ -30,3 +38,7 @@
             map))
 
 ;; TODO optionally use hydra?
+
+(provide 'emamux-mode)
+
+;;; emamux-mode.el ends here
