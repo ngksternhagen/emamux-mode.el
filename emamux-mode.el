@@ -4,7 +4,7 @@
 ;;; Author: NGK Sternhagen <sternhagen@protonmail.ch>
 ;;; Url: https://github.com/ottbot/vagrant.el
 ;;; Keywords: tmux emamux
-;;; Created: 09 January 2016
+;;; Created: 09 January 2017
 
 ;;; Commentary:
 ;;; TODO
